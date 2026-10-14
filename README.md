@@ -34,7 +34,7 @@ For a fresh checkout:
 ```bash
 mkdir -p "$HOME/src"
 cd "$HOME/src"
-git clone https://github.com/SpidermanTotro/LLM4Decompile.git
+git clone https://github.com/HenricHuntsman/LLM4Decompile.git
 cd LLM4Decompile
 ```
 
