@@ -8,8 +8,10 @@ candidate, then checks that candidate against known behaviour. It also repairs
 dataset generation, training setup, token decoding, and repository paths.
 
 **Working project name:** Henric N64 Decompiler. The GitHub repository is currently
-`SpidermanTotro/LLM4Decompile`; clone commands below use that existing address.
+`HenricHuntsman/LLM4Decompile`; clone commands below use that existing address.
 The Python package remains `n64`.
+
+Latest [maintenance verification — 18 October 2026](docs/MAINTENANCE-VERIFICATION-2026-10-18.md) records 32 passing tests, 2 skipped tensor checks, and the synthetic host harness results. Real N64/model execution remains pending.
 
 ## Current status
 
