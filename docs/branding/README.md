@@ -1,0 +1,13 @@
+# LLM4Decompile — Dragon icon proposal
+
+![Dragon mascot for LLM4Decompile](repository-dragon.svg)
+
+This is an **optional, original design asset** for the Reverse Engineering project, using accent colour `#30d1d5` and the shared black-dragon/orange-eyes visual family.
+
+To display the icon in this repository's top-level README **after approval**, reference:
+
+```markdown
+![LLM4Decompile dragon icon](docs/branding/repository-dragon.svg)
+```
+
+No existing README, source files, licenses, third-party names or logos have been replaced. The SVG is a design concept, not an application executable, official upstream logo, GitHub social-preview setting or claim of release readiness. Review upstream marks and project needs before wider adoption.
